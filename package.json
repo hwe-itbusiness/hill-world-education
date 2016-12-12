@@ -1,0 +1,30 @@
+{
+  "name": "hill-world-education-intranet",
+  "version": "0.0.1",
+  "description": "Hill World Education Intranet Model Test",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwe-itbusiness/hill-world-education.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aiden Hill <ahill@hillworldenterprise.ml>",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "eccrypto": "^1.0.3",
+    "express": "^4.14.0",
+    "json-buffer": "^2.0.11",
+    "socket.io": "^1.7.2",
+    "sparkpost": "^2.0.1"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hwe-itbusiness/hill-world-education/issues"
+  },
+  "homepage": "https://github.com/hwe-itbusiness/hill-world-education#readme",
+  "devDependencies": {},
+  "keywords": []
+}

@@ -1,0 +1,40 @@
+{
+    "71624361": {
+        "public": "\":base64:BCHvp+4/i9++8TKBU+9h6nN3KKCm9UIlww7KoPSzMsbqXe6cocyTNwGQUEKqfT+9XNHPKZrQI7vcuUYGgNnPIA4=\"",
+        "name": "BRIAN VO",
+        "email": "\":base64:SKFNjRvackxzapMUWcxOo9UeP77L8tFUfbLyMHveh2k=\"",
+        "password": "\":base64:MEQCIHeRHTkI2o4Fa4iNJUfSE6W3OdvLS6itdyA26m2sCAZ+AiBTjSdVfMGOHoyJ64+wKDIqRzhIvQRWu+2m58ZKoZ0yJw==\"",
+        "private": "\":base64:L0xfKZigi0yj4jOBnRMFv6GpMQcqbbAUfapp+GHIKW4=\"",
+        "activation": "BYPASS",
+        "mail": {
+            "inbox": [
+                {
+                    "toName": "BRIAN VO",
+                    "toID": "71624361",
+                    "fromName": "BRIAN VO",
+                    "fromID": "71624361",
+                    "subject": "Test Message1",
+                    "message": "A"
+                },
+                {
+                    "toName": "BRIAN VO",
+                    "toID": "71624361",
+                    "fromName": "BRIAN VO",
+                    "fromID": "71624361",
+                    "subject": "Test Message2",
+                    "message": "B"
+                }
+            ],
+            "outbox": [
+                {
+                    "toName": "BRIAN VO",
+                    "toID": "71624361",
+                    "fromName": "BRIAN VO",
+                    "fromID": "71624361",
+                    "subject": "Test Message3",
+                    "message": "C"
+                }
+            ]
+        }
+    }
+}
